@@ -1,6 +1,7 @@
 
 <p align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDBqMGhoNmd5cHhrdzc0c2E3aGtscmR0aGFlZXVrMjE3bDllNGF0YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NSzHiAwAcazs7dcDr9/giphy.gif" alt="Coding GIF" width="400">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjZtZnpydzl4eXcxbHFhN3diMGJ1c3NicTBsMXYwOGhwaTNnOXJ0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2zGzZQUqdZZM7YQb1m/giphy.gif" alt="Coding GIF" width="400">
 </p>
 
 <hr width="100%">
